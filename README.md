@@ -19,8 +19,9 @@ The entire system is containerized using Docker and orchestrated with Docker Com
 ## Run the System
 
 Clone the repository and run:
-
+```bash
 docker-compose up --build
+```
 
 This command will start:
 - FastAPI API server
